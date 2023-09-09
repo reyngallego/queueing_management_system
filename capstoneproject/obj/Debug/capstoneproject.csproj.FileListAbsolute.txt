@@ -1,0 +1,48 @@
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\bin\Debug\capstoneproject.exe.config
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.csprojResolveAssemblyReference.cache
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.adduser.resources
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.dashboard.resources
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.Form1.resources
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.Properties.Resources.resources
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.Users.resources
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.csproj.GenerateResource.Cache
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\bin\Debug\capstoneproject.exe
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\bin\Debug\capstoneproject.pdb
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.exe
+c:\users\minem\onedrive\documents\visual studio 2015\Projects\capstoneproject\capstoneproject\obj\Debug\capstoneproject.pdb
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\bin\Debug\capstoneproject.exe.config
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.exe
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.pdb
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\bin\Debug\capstoneproject.exe
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\bin\Debug\capstoneproject.pdb
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.csprojResolveAssemblyReference.cache
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.adduser.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.dashboard.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.Form1.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.Properties.Resources.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.Users.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.csproj.GenerateResource.Cache
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\bin\Debug\capstoneproject.exe.config
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.exe
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.pdb
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\bin\Debug\capstoneproject.exe
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\bin\Debug\capstoneproject.pdb
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.csprojResolveAssemblyReference.cache
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.adduser.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.dashboard.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.Form1.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.Properties.Resources.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.Users.resources
+C:\Users\minem\source\repos\capstone-project-queiung-management\capstone-project-queiung-management\capstoneproject\obj\Debug\capstoneproject.csproj.GenerateResource.Cache
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\bin\Debug\capstoneproject.exe.config
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.exe
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.pdb
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\bin\Debug\capstoneproject.exe
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\bin\Debug\capstoneproject.pdb
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.csprojResolveAssemblyReference.cache
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.adduser.resources
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.dashboard.resources
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.Form1.resources
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.Properties.Resources.resources
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.Users.resources
+C:\Users\reyntot\Downloads\capstone-project-queiung-management-my-first-commit-branch\capstoneproject\obj\Debug\capstoneproject.csproj.GenerateResource.Cache
